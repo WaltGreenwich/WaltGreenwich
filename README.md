@@ -1,5 +1,6 @@
 <a href="https://portafolio-waltergreenwich.netlify.app"><img align="left" src="https://github.com/WaltGreenwich/WaltGreenwich/blob/main/Fondo%20WG.png" alt="Portfolio Web"  style="margin-right:20px; margin-bottom:20px;" width="400px"/></a>
-### Full Stack & AI Engineer | Building AI-powered automation
+### Full Stack & AI Engineer
+**Building intelligent automation where AI is the core, not an add-on.**
 
 <p align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">I'm Walter Greenwich</p> 
 
@@ -7,28 +8,32 @@
 
 <img src="https://komarev.com/ghpvc/?username=waltgreenwich&color=blue"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waltgreenwich/)](https://www.linkedin.com/in/walter-greenwich-link/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-DD4B39?style=flat&logo=Gmail&logoColor=white)](mailto:waltgreenwich.devsec@gmail.com) [![Calendly Badge](https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white)](https://calendly.com/walter-greenwich) [![X](https://img.shields.io/badge/-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/GreenwichW
-) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waltgreenwich/)](https://www.linkedin.com/in/walter-greenwich-link/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-DD4B39?style=flat&logo=Gmail&logoColor=white)](mailto:waltgreenwich.devsec@gmail.com) [![Calendly Badge](https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white)](https://calendly.com/walter-greenwich) [![X](https://img.shields.io/badge/-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/GreenwichW) 
 
 </br>
 
 <img align="left" style="margin-right:20px;margin-top:20px;" alt="waltgreenwich's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltgreenwich&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" />
-<p>🚀 I’m a Front-end Developer skilled in turning Figma designs into modern, responsive, and user-friendly web interfaces. 💻
 
-🛠️ I specialize in creating intuitive websites with HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS, ensuring optimal performance and accessibility.
+<p>🚀 I'm a Full Stack Developer specialized in Applied AI. 💻
 
-🎨 My approach blends aesthetics, functionality, and high performance to deliver exceptional digital experiences across devices. 📱</p>
+🛠️ I don't just add "chatbots"; I build systems that transform unstructured data into actionable insights and automate complex operations that traditional code can't handle. </p>
+
+<p> 🎨 What I'm building right now
+
+- AI-Powered Lead Enrichment: A system that scrapes websites, analyzes them with LLMs, and generates intelligent lead scores.
+- AI Email Intelligence: Automated classification and analysis using Gemini 2.0 to triage support and sales workflows.
+- Orchestration: Building n8n workflows that integrate LLMs with multiple SaaS platforms to reduce manual work from hours to minutes. 📱</p>
 
   
  ## Tech-Skills
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-### AI & Data
+### AI & Automation
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=googlegemini)
 
