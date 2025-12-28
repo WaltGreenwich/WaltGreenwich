@@ -1,8 +1,9 @@
+# 🤖 Walter Greenwich
 <a href="https://portafolio-waltergreenwich.netlify.app">
-  <img align="left" src="https://github.com/WaltGreenwich/WaltGreenwich/blob/main/Fondo%20WG.png" alt="Portfolio Web" style="margin-right:20px; margin-bottom:20px;" width="400px"/>
+  <img align="left" src="https://github.com/WaltGreenwich/WaltGreenwich/blob/main/walt%20ai%20II.png" alt="Portfolio Web" style="margin-right:20px; margin-bottom:20px;" width="400px"/>
 </a>
 
-# 🤖 Walter Greenwich
+
 ### Full Stack & AI Engineer
 **Building intelligent automation where AI is the core, not an add-on.**
 
