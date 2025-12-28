@@ -27,7 +27,7 @@
 
 ### 🛠️ Tech Stack
 
-<img align="right" alt="waltgreenwich's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltgreenwich&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" width="300px" />
+<img align="right" alt="waltgreenwich's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=waltgreenwich&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" width="300px" />
 
 #### **AI & Automation**
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -55,13 +55,11 @@
 ---
 
 ### 📊 GitHub Activity
-![Walter's GitHub stats](https://github-readme-stats.vercel.app/api?username=waltgreenwich&show_icons=true&theme=dark&hide_border=true)
+
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltgreenwich&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=waltgreenwich&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 ### 📫 Connect with me
 * **Portfolio:** [waltgreenwich.com](https://waltgreenwich-com.vercel.app/)
