@@ -65,4 +65,4 @@
 
 ### 📫 Connect with me
 * **Portfolio:** [waltgreenwich.com](https://waltgreenwich-com.vercel.app/)
-* **LinkedIn:** [Walter Greenwich](https://www.linkedin.com/in/walter-greenwich-link/)
+* **LinkedIn:** [Walter Greenwich](https://www.linkedin.com/in/waltgreenwich/)
