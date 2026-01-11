@@ -49,31 +49,35 @@
 
 <img align="right" alt="waltgreenwich's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=waltgreenwich&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" width="300px" />
 
-#### **Automation & Integrations**
+#### **🔄 Automation & Workflow Orchestration**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![n8n](https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n)&nbsp;
-![Zapier](https://img.shields.io/badge/-Zapier-05122A?style=flat&logo=zapier)&nbsp;
+![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)&nbsp;
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)&nbsp;
+![Workflow Automation](https://img.shields.io/badge/-Workflow_Automation-05122A?style=flat&logo=automationanywhere&logoColor=white)&nbsp;
+![Webhooks](https://img.shields.io/badge/-Webhooks-05122A?style=flat&logo=webhooks&logoColor=white)&nbsp;
 
-#### **Infrastructure**
+#### **🌐 Connectivity & Data****
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![REST API](https://img.shields.io/badge/-REST_APIs-05122A?style=flat&logo=api&logoColor=white)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 
-#### **AI (Supporting Layer)**
+#### **🧠 AI & Data Processing (The Brain)**
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=googlegemini)&nbsp;
-![OpenAI](https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai)&nbsp;
-![Claude AI](https://img.shields.io/badge/-Claude_AI-05122A?style=flat&logo=anthropic)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)&nbsp;
+![Gemini](https://img.shields.io/badge/-Gemini-8E75FF?style=flat&logo=googlegemini&logoColor=white)&nbsp;
+![OpenAI](https://img.shields.io/badge/-ChatGPT-412991?style=flat&logo=openai&logoColor=white)&nbsp;
+![Claude AI](https://img.shields.io/badge/-Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)&nbsp;
 
-#### **Tools & IDEs**
+#### **📦 Infrastructure & DevTools**
 
-![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat&logo=cursor)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
+![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat&logo=cursor&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 
 ---
 
