@@ -5,9 +5,9 @@
 </a>
 
 
-### Automation & AI Developer
+### 🐍 Python Engineer | AI Automation & LLM Systems
 
-**Building reliable automation workflows using APIs, Webhooks, and AI**
+**Designing production-ready AI workflows, backend systems, and scalable automation architectures**
 
 <p align="left">
   Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
