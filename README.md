@@ -85,13 +85,6 @@ My goal is to build systems that are not just functional prototypes, but scalabl
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 
-#### **🧠 AI & Data Processing (The Brain)**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)&nbsp;
-![Gemini](https://img.shields.io/badge/-Gemini-8E75FF?style=flat&logo=googlegemini&logoColor=white)&nbsp;
-![OpenAI](https://img.shields.io/badge/-ChatGPT-412991?style=flat&logo=openai&logoColor=white)&nbsp;
-![Claude AI](https://img.shields.io/badge/-Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)&nbsp;
 
 #### **📦 Infrastructure & DevTools**
 
