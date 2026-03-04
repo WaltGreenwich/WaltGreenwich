@@ -66,33 +66,29 @@ My goal is to build systems that are not just functional prototypes, but scalabl
 #### **🐍 Backend & API Engineering**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05998B?style=flat&logo=fastapi&logoColor=white)&nbsp;
+![REST Design](https://img.shields.io/badge/-REST_Design-05122A?style=flat&logo=api&logoColor=white)&nbsp;
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)&nbsp;
+![Async Processing](https://img.shields.io/badge/-Async_Processing-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+
+#### **🤖 AI & LLM Systems**
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)&nbsp;
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)&nbsp;
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75FF?style=flat&logo=googlegemini&logoColor=white)&nbsp;
-![OpenAI](https://img.shields.io/badge/-ChatGPT-412991?style=flat&logo=openai&logoColor=white)&nbsp;
-![Claude AI](https://img.shields.io/badge/-Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)&nbsp;
+![Claude](https://img.shields.io/badge/-Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)&nbsp;
+![Agent Workflows](https://img.shields.io/badge/-Agent_Workflows-05122A?style=flat&logo=creativetechnology&logoColor=white)&nbsp;
 
-#### **🔄 Automation & Workflow Orchestration**
-
+#### **🔄 Automation & Event Systems**
 ![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)&nbsp;
-![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)&nbsp;
-![Workflow Automation](https://img.shields.io/badge/-Workflow_Automation-05122A?style=flat&logo=automationanywhere&logoColor=white)&nbsp;
 ![Webhooks](https://img.shields.io/badge/-Webhooks-05122A?style=flat&logo=webhooks&logoColor=white)&nbsp;
-
-#### **🌐 Connectivity & Data****
-
-![REST API](https://img.shields.io/badge/-REST_APIs-05122A?style=flat&logo=api&logoColor=white)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
+![Event Driven](https://img.shields.io/badge/-Event--Driven_Systems-05122A?style=flat&logo=lightning&logoColor=white)&nbsp;
 
 
-#### **📦 Infrastructure & DevTools**
-
+#### **📦 Infrastructure**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
-![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat&logo=cursor&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
+![Cloud Deployment](https://img.shields.io/badge/-Cloud_Deployment-00589E?style=flat&logo=microsoftazure&logoColor=white)&nbsp;
 
 ---
 
