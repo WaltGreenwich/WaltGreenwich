@@ -11,7 +11,24 @@
 
 <p align="left">
   Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  I'm an Automation & AI Developer focused on building real-world automation systems that integrate multiple services, process structured data, and reduce manual work. I specialize in workflow automation, API integrations, and using AI as a supporting tool to enhance decision-making inside automation pipelines.
+  I'm a Python Engineer focused on building AI-driven backend systems and automation workflows that integrate APIs, LLMs, and structured data pipelines.
+
+My work centers around designing clean, modular architectures using Python and FastAPI, orchestrating AI agents with tools like LangChain, and integrating workflow automation platforms such as n8n to create reliable, production-ready systems.
+</p>
+<p>
+I specialize in:
+
+- AI workflow orchestration
+
+- LLM integration with structured outputs
+
+- Backend API design
+
+- Event-driven automation systems
+
+- Clean architecture & modular backend design
+
+My goal is to build systems that are not just functional prototypes, but scalable, maintainable, and ready for real-world environments.
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walter-greenwich-link/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-DD4B39?style=flat&logo=Gmail&logoColor=white)](mailto:waltgreenwich.devsec@gmail.com) [![Calendly Badge](https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white)](https://calendly.com/walter-greenwich) [![X](https://img.shields.io/badge/-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/GreenwichW)
