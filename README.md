@@ -37,35 +37,39 @@ My goal is to build systems that are not just functional prototypes, but scalabl
 
 ---
 
-### 🚀 Featured Automation Projects
+### 🚀 Featured Projects
 
-🔹 **WhatsApp Webhook Automation Platform:**
+🔹 **AI-Powered Backend Automation Platform**
 
-- Event-driven automation using Webhooks and APIs
-- Message routing and validation logic
-- PostgreSQL persistence and logging
-- Dockerized local environment
-- Clear documentation and QA test cases
+- Built RESTful APIs with FastAPI
+- Integrated LLMs into structured backend services
+- Designed modular service layers
+- Implemented webhook-driven event processing
+- Production-oriented logging and persistence
   
-🔹 **Automated Lead Enrichment Pipeline** (in progress / coming soon)
+🔹 **AI Workflow Orchestration System** 
 
-- Lead ingestion and normalization
-- API-based enrichment
-- AI-assisted classification and scoring
-- Workflow orchestration
-- Designed for scalability and maintainability
+- Designed LLM-driven classification pipelines
+- Integrated LangChain agents with API services
+- Automated decision flows using n8n
+- Focused on structured outputs and reliability
+- Scalable backend-first architecture
   
-🔹 **AI Email Intelligence System**: 
 
-- Automated email classification using LLM APIs
-- Integrated into structured automation workflows
-- Focus on reliability and structured outputsem
 
 ---
 
 ### 🛠️ Tech Focus
 
 <img align="right" alt="waltgreenwich's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=waltgreenwich&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" width="300px" />
+
+#### **🐍 Backend & API Engineering**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)&nbsp;
+![Gemini](https://img.shields.io/badge/-Gemini-8E75FF?style=flat&logo=googlegemini&logoColor=white)&nbsp;
+![OpenAI](https://img.shields.io/badge/-ChatGPT-412991?style=flat&logo=openai&logoColor=white)&nbsp;
+![Claude AI](https://img.shields.io/badge/-Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)&nbsp;
 
 #### **🔄 Automation & Workflow Orchestration**
 
