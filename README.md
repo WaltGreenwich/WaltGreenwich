@@ -76,7 +76,7 @@ My goal is to build systems that are not just functional prototypes, but scalabl
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)&nbsp;
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75FF?style=flat&logo=googlegemini&logoColor=white)&nbsp;
 ![Claude](https://img.shields.io/badge/-Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)&nbsp;
-![Agent Workflows](https://img.shields.io/badge/-Agent_Workflows-05122A?style=flat&logo=creativetechnology&logoColor=white)&nbsp;
+![Agent Workflows](https://img.shields.io/badge/-Agent_Workflows-05122A?style=flat&logo=&logoColor=white)&nbsp;
 
 #### **🔄 Automation & Event Systems**
 ![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)&nbsp;
