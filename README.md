@@ -61,7 +61,7 @@ My goal is to build systems that are not just functional prototypes, but scalabl
 
 ### 🛠️ Tech Focus
 
-<img align="right" alt="waltgreenwich's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=waltgreenwich&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" width="300px" />
+
 
 #### **🐍 Backend & API Engineering**
 
