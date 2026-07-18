@@ -1,7 +1,7 @@
 # 🤖 Walter Greenwich
 <a href="https://waltgreenwich-com.vercel.app/
 ">
-  <img align="left" src="https://github.com/WaltGreenwich/WaltGreenwich/blob/main/automation.png?raw=true" alt="Portfolio Web" style="margin-right:20px; margin-bottom:50px;" width="300px"/>
+  <img align="left" src="https://github.com/WaltGreenwich/WaltGreenwich/blob/main/banner.png?raw=true" alt="Portfolio Web" style="margin-right:20px; margin-bottom:50px;" width="300px"/>
 </a>
 
 
