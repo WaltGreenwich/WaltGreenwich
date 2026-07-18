@@ -13,12 +13,12 @@
   Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
   I'm a Python Engineer focused on building AI-driven backend systems and automation workflows that integrate APIs, LLMs, and structured data pipelines.
 
-My work centers around designing clean, modular architectures using Python and FastAPI, orchestrating AI agents with tools like LangChain, and integrating workflow automation platforms such as n8n to create reliable, production-ready systems.
+My work centers around designing clean, modular architectures using Python and FastAPI, orchestrating AI agents with tools like LangGraph and LangChain, and integrating workflow automation platforms such as n8n to create reliable, production-ready systems.
 </p>
 <p>
 I specialize in:
 
-- AI workflow orchestration
+- AI agent orchestration with LangGraph
 
 - LLM integration with structured outputs
 
@@ -39,23 +39,21 @@ My goal is to build systems that are not just functional prototypes, but scalabl
 
 ### 🚀 Featured Projects
 
-🔹 **AI-Powered Backend Automation Platform**
+🔹 **[AI Multi-Channel Support Platform](https://github.com/WaltGreenwich/ai-multi-channel-customer-support-platform)**
 
-- Built RESTful APIs with FastAPI
-- Integrated LLMs into structured backend services
-- Designed modular service layers
-- Implemented webhook-driven event processing
-- Production-oriented logging and persistence
-  
-🔹 **AI Workflow Orchestration System** 
+LangGraph state machine orchestrating customer support across Telegram, WhatsApp and Email — RAG-grounded answers, automatic quality gating, and human escalation when the AI can't resolve a request confidently.
 
-- Designed LLM-driven classification pipelines
-- Integrated LangChain agents with API services
-- Automated decision flows using n8n
-- Focused on structured outputs and reliability
-- Scalable backend-first architecture
-  
+🔹 **[AI Workflow Automation Hub](https://github.com/WaltGreenwich/ai-workflow-automation)**
 
+AI-powered B2B automation platform combining n8n workflows with LangChain agents to qualify leads, route emails, and generate content.
+
+🔹 **[AI Lead Agent](https://github.com/WaltGreenwich/ai-lead-agent)**
+
+End-to-end lead qualification agent that scores buying intent and prioritizes sales opportunities using AI-driven analysis and automated workflows.
+
+🔹 **[AI Email Intelligence](https://github.com/WaltGreenwich/ai-email-intelligence)**
+
+LLM-powered email classification and urgency detection using Google Gemini 2.0 Flash, replacing manual and rule-based triage.
 
 ---
 
@@ -73,10 +71,10 @@ My goal is to build systems that are not just functional prototypes, but scalabl
 ![Async Processing](https://img.shields.io/badge/-Async_Processing-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 
 #### **🤖 AI & LLM Systems**
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)&nbsp;
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)&nbsp;
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)&nbsp;
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75FF?style=flat&logo=googlegemini&logoColor=white)&nbsp;
-![Claude](https://img.shields.io/badge/-Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)&nbsp;
 ![Agent Workflows](https://img.shields.io/badge/-Agent_Workflows-05122A?style=flat&logo=&logoColor=white)&nbsp;
 
 #### **🔄 Automation & Event Systems**
